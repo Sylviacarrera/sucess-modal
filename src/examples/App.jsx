@@ -2,6 +2,10 @@ import './App.scss'
 import { useState } from 'react'
 import Modal from '../lib'
 
+/**
+ * @returns {JSX.Element}
+ * @description 
+ */
 const App = () => {
   const [modalIsDisplayed, setModalIsDisplayed] = useState(false)
 
