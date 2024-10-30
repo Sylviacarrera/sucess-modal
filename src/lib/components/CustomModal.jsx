@@ -1,6 +1,15 @@
 import React from 'react'
 import './CustomModal.scss'
 
+/**
+ * @param {boolean} isDisplayed
+ * @param {function} onCloseModal
+ * @param {JSX.Element} content
+ * @returns {JSX.Element}
+ * @description CustomModal 
+ 
+ */
+
 const CustomModal = ({ isDisplayed = false, onCloseModal, content }) => {
   return (
     <div

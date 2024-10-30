@@ -2,7 +2,7 @@
   "name": "success-modal_react",
   "description": "A modal component using react",
   "author": "Sylvia Guilhem",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": false,
   "main": "build/index.js",
   "module": "build/index.js",
