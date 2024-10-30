@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Occupation de toute la hauteur de la fenêtre */
+  background-color: #f0f4f8; /* Couleur d'arrière-plan douce */
+}
+
+.title {
+  font-size: 2rem;
+  color: #007bff; /* Couleur bleue pour le titre */
+  margin-bottom: 20px; /* Espacement en bas */
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold; /* Mettre le texte en gras */
+}
+
+.submit-button {
+  margin-top: 20px;
+  padding: 10px 20px; /* Espacement interne */
+  background-color: #007bff; /* Couleur du bouton */
+  color: white; /* Couleur du texte du bouton */
+  border: none; /* Pas de bordure */
+  border-radius: 5px; /* Coins arrondis */
+  cursor: pointer; /* Pointeur pour indiquer que c'est cliquable */
+  transition: background-color 0.3s; /* Transition pour l'effet au survol */
+
+  &:hover {
+    background-color: #0056b3; /* Couleur au survol */
+  }
+}
+
+.modal {
+  text-align: center; /* Centrer le texte dans la modale */
+}
+
+.modal-text {
+  font-size: 1.5rem; /* Taille de la police pour le message principal */
+  color: #007bff; /* Couleur bleue pour le message */
+  margin-bottom: 10px; /* Espacement en bas */
+}
+
+.modal-subtext {
+  font-size: 1rem; /* Taille de la police pour le sous-message */
+  color: #555; /* Couleur grise pour le texte secondaire */
+}
