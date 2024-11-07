@@ -7,9 +7,7 @@ import './CustomModal.scss'
  * @param {JSX.Element} content
  * @returns {JSX.Element}
  * @description CustomModal 
- 
  */
-
 const CustomModal = ({ isDisplayed = false, onCloseModal, content }) => {
   return (
     <div

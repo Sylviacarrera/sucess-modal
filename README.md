@@ -2,10 +2,10 @@
 
 A modal component using react
 
-<a href="https://www.npmjs.com/package/sucess-modal"><img alt="npm" src="https://img.shields.io/npm/dw/sucess-modal"></a>
-<a href="https://www.npmjs.com/package/sucess-modal"><img alt="npm" src="https://img.shields.io/npm/v/sucess-modal"></a>
-<a href="https://www.npmjs.com/package/sucess-modal"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/sucess-modal"></a>
-<a href="https://www.npmjs.com/package/sucess-modal">
+<a href="https://www.npmjs.com/package/sucess-modal-react"><img alt="npm" src="https://img.shields.io/npm/dw/sucess-modal-react"></a>
+<a href="https://www.npmjs.com/package/sucess-modal-react"><img alt="npm" src="https://img.shields.io/npm/v/sucess-modal-react"></a>
+<a href="https://www.npmjs.com/package/sucess-modal-react"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/sucess-modal-react"></a>
+<a href="https://www.npmjs.com/package/sucess-modal-react">
 <img alt="Maintenance Status" src="https://img.shields.io/badge/maintenance-active-green.svg" />
 
 </a>
