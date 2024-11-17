@@ -49,4 +49,12 @@ const Example = () => {
   )
 }
 export default Example
-```# sucess-modal
+
+```
+## Props Documentation
+
+| Prop Name       | Type         | Required | Default   | Description                                                                 |
+|------------------|--------------|----------|-----------|-----------------------------------------------------------------------------|
+| `isDisplayed`   | `boolean`    | Yes      | `false`   | Controls whether the modal is visible (`true`) or hidden (`false`).         |
+| `onCloseModal`  | `function`   | Yes      | `() => {}` | Function triggered when the modal is closed.                               |
+| `content`       | `JSX.Element`| Yes      | `null`    | The content to be displayed inside the modal.                              |
