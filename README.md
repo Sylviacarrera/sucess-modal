@@ -13,13 +13,13 @@ A modal component using react
 ## Installation
 
 ```
-npm install sucess-modal
+npm install sucess-modal_react
 ```
 
 ## Example
 
 ```js
-import Modal from 'success-modal'
+import Modal from 'success-modal_react'
 import { useState } from 'react'
 const Example = () => {
   const [modalIsDisplayed, setModalIsDisplayed] = useState(false)
